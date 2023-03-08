@@ -82,7 +82,7 @@
       (subtractmaskfromsilk false)
       (outputformat 1)
       (mirror false)
-      (drillshape 1)
+      (drillshape 0)
       (scaleselection 1)
       (outputdirectory "")
     )
@@ -248,7 +248,7 @@
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 5393d5ad-62d2-4c98-ab21-60f416b105fa)
     )
@@ -273,7 +273,7 @@
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp 07e6931a-3fc3-43bf-993c-35734735dbf3)
     )
@@ -819,7 +819,7 @@
     (descr "Mounting Hole 2.2mm, M2, DIN965")
     (tags "mounting hole 2.2mm m2 din965")
     (attr exclude_from_pos_files exclude_from_bom)
-    (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS")
+    (fp_text reference "REF**" (at 0 -2.9) (layer "F.SilkS") hide
         (effects (font (size 1 1) (thickness 0.15)))
       (tstamp b1cdc082-84a8-44ab-af4a-a57bc8387799)
     )

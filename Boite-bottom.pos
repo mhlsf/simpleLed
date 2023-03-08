@@ -1,0 +1,7 @@
+### Footprint positions - created on Thu 09 Mar 2023 12:44:35 AM CET ###
+### Printed by KiCad version 7.0.0-da2b9df05c~163~ubuntu22.04.1
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                Package                PosX       PosY       Rot  Side
+A3        Arduino_Nano_v3.x  Arduino_Nano        59.9200   -55.7600  -90.0000  bottom
+## End

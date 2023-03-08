@@ -1,0 +1,9 @@
+"Id";"Designator";"Footprint";"Quantity";"Designation";"Supplier and ref";
+1;"J2,J1";"PinHeader_1x03_P1.27mm_Vertical";2;"Conn_01x03_Female";;;
+2;"R6,R5";"R_0603_1608Metric";2;"20K";;;
+3;"C1";"C_0603_1608Metric";1;"10uF";;;
+4;"R7";"R_0603_1608Metric";1;"120";;;
+5;"R1,R4,R3,R2";"R_0603_1608Metric";4;"10K";;;
+6;"J3";"PinHeader_1x02_P1.27mm_Vertical";1;"Conn_01x02_Female";;;
+7;"U2";"SOIC-8-1EP_3.9x4.9mm_P1.27mm_EP2.29x3mm";1;"MAX485E";;;
+8;"A3";"Arduino_Nano";1;"Arduino_Nano_v3.x";;;
